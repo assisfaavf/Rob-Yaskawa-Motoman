@@ -28,10 +28,6 @@ body {
   padding-top: 65px;
 }
 
-.Esquemas {
-  text-align: justify;
-}
-
 nav {
   /* Coloca os conteudos da caixa alinhados lado a lado */
   display: flex;

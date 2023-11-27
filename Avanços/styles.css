@@ -28,8 +28,12 @@ body {
   padding-top: 65px;
 }
 
-.Esquemas {
-  text-align: justify;
+#Pistolas img {
+  display: flex;
+  align-items: center;
+  margin: 40px auto 40px;
+  width: 400px;
+  height: auto;
 }
 
 nav {
