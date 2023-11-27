@@ -1,5 +1,7 @@
 p {
   text-indent: 4em;
+  text-align: justify;
+  font-family: "Open Sans", sans-serif;
 }
 body {
   width: 100%;
