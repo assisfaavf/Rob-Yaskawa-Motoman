@@ -28,6 +28,14 @@ body {
   padding-top: 65px;
 }
 
+#Riscos img {
+  display: flex;
+  align-items: center;
+  margin: 40px auto 40px;
+  width: 400px;
+  height: auto;
+}
+
 nav {
   /* Coloca os conteudos da caixa alinhados lado a lado */
   display: flex;
