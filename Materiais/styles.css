@@ -25,6 +25,10 @@ body {
   padding-top: 65px;
 }
 
+table {
+  margin: auto;
+}
+
 nav {
   /* Coloca os conteudos da caixa alinhados lado a lado */
   display: flex;
