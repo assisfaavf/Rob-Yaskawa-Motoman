@@ -118,7 +118,10 @@
                 <img src="./img/Regulador.jpg" alt="Regulador de pressão">
 
              <h2>Manutenção</h2>
-                 <p></p>
+                 <p>A limpeza é a manutenção prioritária nas bombas de tinta, exigida quando o abastecimento 
+                     contém impurezas ou substâncias inadequadas que comprometem a operação correta do 
+                     equipamento. É crucial remover tais substâncias, como PVC, para desobstruir os canais da 
+                     bomba e garantir seu funcionamento adequado.</p>
  
              <h2>Custos</h2>
                  <p></p>
@@ -128,8 +131,10 @@
 
          </div>
          <div id="Esteira">
-            <h1><strong>Esteira</strong></h1>
-                <p></p>
+            <h1><strong>Lonas de Fios de Nylon/strong></h1>
+                <p>A opção por esta esteira foi concebida com o propósito de substituir a esteira de pintura 
+                    do robô. Seu objetivo é prevenir o acúmulo de tinta na superfície da esteira que 
+                    anteriormente interferia no funcionamento adequado do sensor de solas.</p>
  
                  <img src="#" alt="Esteira de Fios">
  
@@ -137,7 +142,17 @@
                  <p><a href="./img/GI-2465-Robô de Pintura - Esteira de ligas 3D.pdf" target="_blank">Clique aqui para abrir o desenho</a></p>
 
              <h2>Mudanças</h2>
-                 <p></p>
+                 <p>A substituição da lona da esteira resultou na principal mudança almejada: a redução 
+                     significativa do acúmulo de tinta em sua superfície. Contudo, essa alteração trouxe 
+                     consigo uma questão que não existia na esteira anterior: o deslizamento da lona em 
+                     relação ao movimento da esteira. Isso ocasionava a imobilidade da lona enquanto a esteira 
+                     deveria estar em rotação, resultando em um problema perigoso. A lona parada sobre a 
+                     resistência ativada causava o superaquecimento dos fios da lona, pois o sistema 
+                     considerava a esteira em funcionamento com a resistência ligada.</p>
+                <p>Para superar esse problema, foi introduzido um sensor no eixo desengrenado da esteira, 
+                    detectando a imobilidade ou movimento da lona. Após um intervalo de tempo determinado (x) 
+                    sem haver a mudança de estado, o sensor desativa a resistência para evitar o 
+                    superaquecimento e danos à lona.</p>
  
              <h2>Custos</h2>
                  <p></p>
