@@ -39,7 +39,7 @@ nav {
   margin-bottom: 55px;
 }
 
-ul {
+nav ul {
   /* Remove o ponto da lista desordenada */
   list-style: none;
   display: flex;
