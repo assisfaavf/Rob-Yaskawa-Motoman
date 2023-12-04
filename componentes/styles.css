@@ -122,13 +122,28 @@ ul li a {
   margin: 40px auto 40px;
 }
 
-#Bloco img {
+#fotos img {
+  width: 400px;
+  height: auto;
+  margin: 40px 40px 40px;
+  justify-content: space-between;
+}
+
+#Capa img {
   display: flex;
   align-items: center;
   margin: 40px auto 40px;
+  width: auto;
+  height: 400px;
 }
 
-#Bomba img {
+#Tinta img {
+  align-items: center;
+  margin: 40px 40px 40px;
+  width: 400px;
+  height: auto;
+}
+#Tinta #bomba {
   display: flex;
   align-items: center;
   margin: 40px auto 40px;
@@ -139,6 +154,13 @@ main img {
   margin-left: 50px;
 }
 
+#Esteira img {
+  display: flex;
+  align-items: center;
+  margin: 40px auto 40px;
+  width: 400px;
+  height: auto;
+}
 footer {
   text-align: center;
 
