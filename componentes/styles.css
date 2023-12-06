@@ -128,12 +128,17 @@ ul li a {
   width: 800px;
   height: auto;
 }
-
+#fotos {
+  display: flex;
+  text-align: center;
+}
 #fotos img {
-  width: 400px;
-  height: auto;
-  margin: 40px 40px 40px;
+  display: flex;
+  align-items: center;
   justify-content: space-between;
+  margin: 40px auto 40px;
+  width: 200px;
+  height: auto;
 }
 
 #Capa img {
@@ -143,11 +148,14 @@ ul li a {
   width: auto;
   height: 400px;
 }
-
-#Tinta img {
+#Reguladores {
+  display: flex;
   align-items: center;
-  margin: 40px 40px 40px;
-  width: 400px;
+}
+#Reguladores img {
+  justify-content: space-between;
+  margin: 40px auto 40px;
+  width: 250px;
   height: auto;
 }
 #Tinta #bomba {
