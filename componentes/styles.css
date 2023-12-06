@@ -121,9 +121,12 @@ ul li a {
   text-align: justify;
 }
 
-#Pistola img {
-  width: 1000px;
+#Pistolas img {
+  display: flex;
+  align-items: center;
   margin: 40px auto 40px;
+  width: 800px;
+  height: auto;
 }
 
 #fotos img {
