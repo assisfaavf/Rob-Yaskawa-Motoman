@@ -165,6 +165,14 @@ main img {
   width: 400px;
   height: auto;
 }
+
+#Cabine img {
+  display: flex;
+  align-items: center;
+  margin: 40px auto 40px;
+  width: 400px;
+  height: auto;
+}
 footer {
   text-align: center;
 
