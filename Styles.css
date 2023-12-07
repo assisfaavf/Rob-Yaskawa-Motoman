@@ -1,14 +1,24 @@
-p {
-  text-indent: 4em;
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
 }
+
 body {
   width: 100%;
   height: 100%;
-  margin: 0;
   font-family: "Open Sans", sans-serif;
 
   /* Cria backgorund com degradê, precisa ter: qual a rotação de inicio do gradiente e as duas cores aplicadas (rgba(red,green,blue,tranparecia) proporção da tela que deve aprecer%)  */
   background: linear-gradient(180deg, rgba(227, 255, 248, 0) 80%, #648cbc 100%);
+}
+p {
+  text-indent: 4em;
+}
+.page {
+  width: 1000px;
+  margin: 0 auto;
+  padding-top: 65px;
 }
 .head {
   width: 100%;
@@ -22,16 +32,22 @@ body {
   margin-top: 0px;
   margin-bottom: 20px;
 }
+nav {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
 ul {
   /* Remove o ponto da lista desordenada */
   list-style: none;
   display: flex;
-
+  align-items: center;
   /* Adiciona um espaço apenas entre os elementos */
   gap: 24px;
   /* Remove a matgem e o padding dos elementos */
-  margin: 0;
-  padding: 0;
   font-family: "Mulish", sans-serif;
 }
 /* Adiciona a estilização para quando passar o mouse */
@@ -53,7 +69,6 @@ ul li a {
   width: 490px;
 }
 .text h1 span {
-  font-family: "Mulish", sans-serif;
   font-weight: bold;
   color: #9cb4dc;
 }
@@ -67,31 +82,11 @@ ul li a {
   text-align: justify;
 }
 
-.text button {
-  /* transforma tudo em maiusculo */
-  text-transform: uppercase;
-  color: #fff;
-  font-family: "DM Sans", sans-serif;
-  font-size: 16px;
-
+main {
   display: flex;
   align-items: center;
-  justify-content: center;
-  flex-direction: row;
-  gap: 10px;
-  padding: 14px 32px 15px;
-
-  background-color: #69b99d;
-  border: none;
-  border-radius: 4px;
-
-  cursor: pointer;
+  justify-content: space-between;
 }
-
-.text button:hover {
-  background: #4ea788;
-}
-
 main img {
   margin-left: 50px;
 }
@@ -110,46 +105,4 @@ footer a {
   text-decoration: none;
   font-weight: bold;
   color: #1f1534;
-}
-
-main {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-@media screen and (min-width: 1000px) {
-  .page {
-    width: 1000px;
-    margin: 0 auto;
-    padding-top: 65px;
-  }
-
-  nav {
-    /* Coloca os conteudos da caixa alinhados lado a lado */
-    display: flex;
-    /* coloca um espaço entre os conteudos */
-    justify-content: space-between;
-    /* Alinha elementos ao centro */
-    align-items: center;
-    /* Adiciona a margem inferior */
-    margin-bottom: 55px;
-  }
-}
-@media screen and (max-width: 980px) {
-  .page {
-    width: 400px;
-    margin: 0 auto;
-    padding-top: 65px;
-  }
-
-  nav {
-    /* Coloca os conteudos da caixa alinhados lado a lado */
-    display: flex;
-    /* coloca um espaço entre os conteudos */
-    justify-content: space-between;
-    /* Alinha elementos ao centro */
-    align-items: center;
-    /* Adiciona a margem inferior */
-    margin-bottom: 55px;
-  }
 }
