@@ -26,6 +26,7 @@ ul {
   /* Remove o ponto da lista desordenada */
   list-style: none;
   display: flex;
+
   /* Adiciona um espaço apenas entre os elementos */
   gap: 24px;
   /* Remove a matgem e o padding dos elementos */
@@ -119,6 +120,24 @@ main {
 @media screen and (min-width: 1000px) {
   .page {
     width: 1000px;
+    margin: 0 auto;
+    padding-top: 65px;
+  }
+
+  nav {
+    /* Coloca os conteudos da caixa alinhados lado a lado */
+    display: flex;
+    /* coloca um espaço entre os conteudos */
+    justify-content: space-between;
+    /* Alinha elementos ao centro */
+    align-items: center;
+    /* Adiciona a margem inferior */
+    margin-bottom: 55px;
+  }
+}
+@media screen and (max-width: 980px) {
+  .page {
+    width: 700px;
     margin: 0 auto;
     padding-top: 65px;
   }
