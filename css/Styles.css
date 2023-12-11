@@ -103,7 +103,11 @@ footer a {
   font-weight: bold;
   color: #1f1534;
 }
-
+/* Index */
+#Botão {
+  font-size: 49px;
+  background-color: #9cb4dc;
+}
 /* Avanços */
 #Pistolas img {
   display: flex;
