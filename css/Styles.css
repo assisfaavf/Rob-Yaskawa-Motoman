@@ -103,9 +103,43 @@ footer a {
   color: #1f1534;
 }
 /* Index */
-#Botão {
-  font-size: 49px;
+main a {
+  text-decoration: none;
+  margin: auto;
+}
+.text button {
+  display: flex;
+  align-items: center;
+  margin: 30px auto;
+}
+button img {
+  width: 20px;
+  align-items: center;
+  margin: auto;
+}
+.text button {
+  /* transforma tudo em maiusculo */
+  text-transform: uppercase;
+  color: #fff;
+  font-family: "DM Sans", sans-serif;
+  font-size: 16px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  gap: 10px;
+  padding: 14px 32px 15px;
+
   background-color: #9cb4dc;
+  border: none;
+  border-radius: 4px;
+
+  cursor: pointer;
+}
+
+.text button:hover {
+  background: #4ea788;
 }
 /* Avanços */
 #Pistolas img {
