@@ -5,7 +5,7 @@
 }
 
 body {
-  width: 100%;
+  width: 90%;
   height: 100%;
   font-family: "Open Sans", sans-serif;
   /* Cria backgorund com degradê, precisa ter: qual a rotação de inicio do gradiente e as duas cores aplicadas (rgba(red,green,blue,tranparecia) proporção da tela que deve aprecer%)  */
