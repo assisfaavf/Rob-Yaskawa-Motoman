@@ -15,6 +15,7 @@ body {
 p {
   text-indent: 4em;
   text-align: justify;
+  margin: 20px auto 20px;
 }
 .page {
   width: 1000px;
