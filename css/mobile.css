@@ -15,7 +15,7 @@ body {
 p {
   text-indent: 4em;
   text-align: justify;
-  width: 450px;
+  width: 430px;
   margin: auto;
   padding: 10px;
 }
@@ -67,7 +67,7 @@ ul li a {
   font-size: 49px;
   line-height: 56px;
   color: #1f1534;
-  width: 450px;
+  width: 430px;
   margin: auto;
 }
 .text h1 span {
