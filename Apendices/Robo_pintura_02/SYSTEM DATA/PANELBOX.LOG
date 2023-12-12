@@ -1,0 +1,211 @@
+/SYSTEM 7
+//DATE      : 2019/11/30 13:44:44
+//SYSTEM NO : DN1.80.00A(US)-00
+//PARAM  NO : 1.63
+//APPLI     : GENERAL         ,GENERAL         
+//LANGUAGE  :  1.80-00-00
+//REVISION
+YCP21    1.80.00,-----,     
+YPP      1.71-00, 1.02-00, 2.02
+YSF21-1  2.20-00, 2.00,
+YSF21-2  2.20-00, 2.00,
+EAXA*#0  1.80-00, 2.00,
+YCP02#1  1.20, 2.02,CONVEYOR TRACKING 
+//ROBOT NAME
+R1 : MA1440/MH12-A0*(MH12)                        0011_1111
+//CONTROL POWER
+TOTAL : 2019/06/24 08:38,03047:26'47
+//SERVO POWER
+TOTAL : 2019/06/24 08:38,02313:07'01
+R1    : 2019/06/24 08:38,02312:37'31
+//PLAYBACK TIME
+TOTAL : 2019/06/24 08:38,01902:05'54
+R1    : 2019/06/24 08:38,01901:52'27
+//MOVING TIME
+TOTAL : 2019/06/24 08:38,01274:17'45
+R1    : 2019/06/24 08:38,01274:17'45
+//OPERATING TIME
+TOOL1 : 2019/06/24 08:38,00000:00'00
+//ENERGY TIME
+TOTAL : 2019/06/24 08:38,00203:54'20
+//CONTROLLER SETTING
+============================================================
+LANGUAGE
+
+------------------------------------------------------------
+LANGUAGE1           ENGLISH            
+LANGUAGE2           ENGLISH            
+============================================================
+CONTROL GROUP                                       
+                                                    
+------------------------------------------------------------
+CONNECT :                             DETAIL        
+R1      : MA1440/MH12-A0*                           
+B1      : NONE                        DETAIL        
+R2      : NONE                                      
+S1      : NONE                        DETAIL        
+============================================================
+CONNECT(CONTACTOR)                                  
+        -- AXIS --     -- BRK --   -- CV  --        
+    SV <123456789> TU <123456789> <123456789> OT    
+------------------------------------------------------------
+R1 :#1 [123456---] #1 [123456---] [111111---] OT1   
+============================================================
+APPLICATION
+
+------------------------------------------------------------
+APPLICATION                             
+  GENERAL + GENERAL                     
+ROBOT APPL OPTION        R1                                                             
+  1 : GENERAL PURPOSE    *                 
+  2 : GENERAL PURPOSE    *                 
+CIO LADDER (STANDARD) 
+  GENERAL + GENERAL                     
+============================================================
+OPTION BOARD                                        
+STANDARD                                            
+------------------------------------------------------------
+#0        YCP02                                     
+#1        NONE                                      
+#2        NONE                                      
+============================================================
+IO MODULE
+ST#   DI   DO  AI  AO BOARD               
+------------------------------------------------------------
+ 00 0040 0040   -   - YSF21(YIO21 NPN)
+ 01    -    -   -   - NONE
+ 02    -    -   -   - NONE
+ 03    -    -   -   - NONE
+ 04    -    -   -   - NONE
+ 05    -    -   -   - NONE
+ 06    -    -   -   - NONE
+ 07    -    -   -   - NONE
+ 08    -    -   -   - NONE
+ 09    -    -   -   - NONE
+ 10    -    -   -   - NONE
+ 11    -    -   -   - NONE
+ 12    -    -   -   - NONE
+ 13    -    -   -   - NONE
+ 14    -    -   -   - NONE
+ 15    -    -   -   - NONE
+ 16    -    -   -   - NONE
+ 17    -    -   -   - NONE
+ 18    -    -   -   - NONE
+ 19    -    -   -   - NONE
+============================================================
+EXTERNAL IO SETUP                                   
+                                                    
+------------------------------------------------------------
+ALLOCATION MODE                  AUTO               
+EXTERNAL IO ALLOCATION           DETAIL             
+============================================================
+EXTERNAL IO ALLOCATION(INPUT)                       
+        ST#  CH  MAC ID  ADDR  BYTE  NAME           
+------------------------------------------------------------
+#20010    0   0       0     0     5  YSF21          
+============================================================
+EXTERNAL IO ALLOCATION(OUTPUT)                      
+        ST#  CH  MAC ID  ADDR  BYTE  NAME           
+------------------------------------------------------------
+#30010    0   0       0     0     5  YSF21          
+============================================================
+OPTION FUNCTION
+
+------------------------------------------------------------
+* VISION FUNCTION                 NOT USED  
+* ROBOT DETACHMENT                DETAIL    
+* AXES DETACHMENT                 DETAIL    
+* NETWORK                         DETAIL    
+* RELATIVE JOB                    USED      
+* INTERRUPT JOB                   USED      
+* TCP                             NOT USED  
+* MACRO INST.                     NOT USED  
+* AUTO BACKUP                     USED      
+* I/F PANEL                       USED      
+* LADDER EDITOR                   USED      
+* PLAY MODE ENABLE                NOT USED  
+* MANUAL BRAKE RELEASE            NOT USED  
+* EXTERNAL REFERENCE POINT        NOT USED  
+* PARALLEL START INSTRUCTION        3
+* COORDINATED INSTRUCTION         NOT USED  
+* STATION ANGLE DISPLAY           NOT USED  
+* LIMITS CUSTOMIZATION            DETAIL    
+* TOOL NO. SWITCHING              NOT USED  
+* SI UNIT INDICATION              NOT USED  
+* DISPLAY IO NAME IN JOB          NOT USED  
+* EXTERNAL IO SETUP               DETAIL    
+* VARIABLE ALLOCATION             DETAIL    
+* Ex.AXIS INDIVIDUAL CONTROL(SDA) DETAIL    
+* MotoPlus FUNC.                  NOT USED  
+* AUTOBACKUP(YCP21)               NOT USED  
+* Functional safety               DETAIL    
+* EtherNet/IP(CPU Board)          DETAIL    
+* Machine Safety function         DETAIL    
+* MotoFit                         NOT USED  
+* MotomanSync                     DETAIL    
+* REMOVABLE-PROGRAMMING PENDANT   NOT USED  
+* SAFETY LOGICAL EXPANSION        DETAIL    
+============================================================
+CMOS MEMORY
+
+------------------------------------------------------------
+  USED SIZE           2 MB               
+  MOUNTED SIZE        2 MB               
+============================================================
+------------------------------------------------------------
+FILE CREATE DATE             2012/02/01 15:30:47 TEACHING
+CMOS.BIN LOADED              ----/--/-- --:--:--
+============================================================
+CHANGE TRACKING LIST         DATE
+  INITIALIZE                 2019/06/24 08:39:33 MAKER
+  LANGUAGE                   ----/--/-- --:--:--
+  CONTROL GROUP              ----/--/-- --:--:--
+  APPLICATION                ----/--/-- --:--:--
+  OPTION BOARD               2019/06/24 12:59:12 MAKER
+  IO MODULE                  ----/--/-- --:--:--
+  CMOS MEMORY                ----/--/-- --:--:--
+  DATE/TIME                  2019/11/15 09:13:00 MANAGEMENT
+  OPTION FUNCTION            2019/06/24 13:20:40 MAKER
+============================================================
+INITIALIZED FILES
+  JOB                        ----/--/-- --:--:--
+  FILE/GENERAL DATA          2019/06/24 12:59:17 MAKER
+  PARAMETER                  ----/--/-- --:--:--
+  I/O DATA                   ----/--/-- --:--:--
+  SYSTEM DATA                2019/06/24 12:59:21 MAKER
+  USER DEFINE                ----/--/-- --:--:--
+============================================================
+INSPECTION AND TEST RECORD   DATE
+                             ----/--/-- --:--:--
+                             ----/--/-- --:--:--
+                             ----/--/-- --:--:--
+                             ----/--/-- --:--:--
+                             ----/--/-- --:--:--
+============================================================
+CHANGE TRACKING PARAMETER    DATE
+  AMCxG                      ----/--/-- --:--:--
+  AxP                        ----/--/-- --:--:--
+  CIO                        ----/--/-- --:--:--
+  FD                         2019/06/24 12:10:40 MAKER
+  FMSxB                      ----/--/-- --:--:--
+  MFxG                       ----/--/-- --:--:--
+  RCD                        ----/--/-- --:--:--
+  RCxG                       ----/--/-- --:--:--
+  RExG                       ----/--/-- --:--:--
+  ROxG                       ----/--/-- --:--:--
+  RS                         ----/--/-- --:--:--
+  SxE                        ----/--/-- --:--:--
+  S1CxG                      ----/--/-- --:--:--
+  S2C                        2019/06/24 12:20:11 MAKER
+  S3C                        ----/--/-- --:--:--
+  S4C                        ----/--/-- --:--:--
+  S1D                        ----/--/-- --:--:--
+  S2D                        ----/--/-- --:--:--
+  S3D                        ----/--/-- --:--:--
+  S4D                        ----/--/-- --:--:--
+  SVxG                       ----/--/-- --:--:--
+  SVCxB                      ----/--/-- --:--:--
+  SVD                        ----/--/-- --:--:--
+  SVMxG                      ----/--/-- --:--:--
+  SVPxG                      ----/--/-- --:--:--
+  SVSxB                      ----/--/-- --:--:--

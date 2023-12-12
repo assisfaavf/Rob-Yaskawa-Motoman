@@ -1,0 +1,4429 @@
+//LOGDATA
+///INDEX 1
+DATE              :2019/11/30 13:44:47
+EVENT             :FILE SAVE END
+LOGIN NAME        :
+FILE NAME         :TRQDAT.DAT
+
+///INDEX 2
+DATE              :2019/11/30 13:44:46
+EVENT             :FILE SAVE END
+LOGIN NAME        :
+FILE NAME         :EIOALLOC.DAT
+
+///INDEX 3
+DATE              :2019/11/30 13:44:46
+EVENT             :FILE SAVE END
+LOGIN NAME        :
+FILE NAME         :IFPANEL.DAT
+
+///INDEX 4
+DATE              :2019/11/30 13:44:46
+EVENT             :FILE SAVE END
+LOGIN NAME        :
+FILE NAME         :KEYALLOC.DAT
+
+///INDEX 5
+DATE              :2019/11/30 13:44:44
+EVENT             :FILE SAVE END
+LOGIN NAME        :
+FILE NAME         :IOMSGHST.DAT
+
+///INDEX 6
+DATE              :2019/11/30 13:44:44
+EVENT             :FILE SAVE END
+LOGIN NAME        :
+FILE NAME         :OPEORG.DAT
+
+///INDEX 7
+DATE              :2019/11/30 13:44:44
+EVENT             :FILE SAVE END
+LOGIN NAME        :
+FILE NAME         :PANELBOX.LOG
+
+///INDEX 8
+DATE              :2019/11/30 13:44:43
+EVENT             :FILE SAVE END
+LOGIN NAME        :
+FILE NAME         :SYSTEM.SYS
+
+///INDEX 9
+DATE              :2019/11/30 13:44:43
+EVENT             :FILE SAVE END
+LOGIN NAME        :
+FILE NAME         :ABSO.DAT
+
+///INDEX 10
+DATE              :2019/11/30 13:44:43
+EVENT             :FILE SAVE END
+LOGIN NAME        :
+FILE NAME         :ALMHIST.DAT
+
+///INDEX 11
+DATE              :2019/11/30 13:44:43
+EVENT             :FILE SAVE END
+LOGIN NAME        :
+FILE NAME         :HOME2.DAT
+
+///INDEX 12
+DATE              :2019/11/30 13:44:43
+EVENT             :FILE SAVE END
+LOGIN NAME        :
+FILE NAME         :VARNAME.DAT
+
+///INDEX 13
+DATE              :2019/11/30 13:44:41
+EVENT             :FILE SAVE END
+LOGIN NAME        :
+FILE NAME         :SVMON.DAT
+
+///INDEX 14
+DATE              :2019/11/30 13:44:41
+EVENT             :FILE SAVE END
+LOGIN NAME        :
+FILE NAME         :UWORD.DAT
+
+///INDEX 15
+DATE              :2019/11/30 13:43:15
+EVENT             :FILE SAVE END
+LOGIN NAME        :
+FILE NAME         :YSFLOGIC.DAT
+
+///INDEX 16
+DATE              :2019/11/30 13:43:15
+EVENT             :FILE SAVE END
+LOGIN NAME        :
+FILE NAME         :IOMNAME.DAT
+
+///INDEX 17
+DATE              :2019/11/30 13:43:15
+EVENT             :FILE SAVE END
+LOGIN NAME        :
+FILE NAME         :EXIONAME.DAT
+
+///INDEX 18
+DATE              :2019/11/30 13:43:14
+EVENT             :FILE SAVE END
+LOGIN NAME        :
+FILE NAME         :PSEUDOIN.DAT
+
+///INDEX 19
+DATE              :2019/11/30 13:43:14
+EVENT             :FILE SAVE END
+LOGIN NAME        :
+FILE NAME         :IONAME.DAT
+
+///INDEX 20
+DATE              :2019/11/30 13:43:14
+EVENT             :FILE SAVE END
+LOGIN NAME        :
+FILE NAME         :CIOPRG.LST
+
+///INDEX 21
+DATE              :2019/11/30 13:42:42
+EVENT             :FILE SAVE END
+LOGIN NAME        :
+FILE NAME         :FMS.PRM
+
+///INDEX 22
+DATE              :2019/11/30 13:42:42
+EVENT             :FILE SAVE END
+LOGIN NAME        :
+FILE NAME         :RE.PRM
+
+///INDEX 23
+DATE              :2019/11/30 13:42:39
+EVENT             :FILE SAVE END
+LOGIN NAME        :
+FILE NAME         :SVC.PRM
+
+///INDEX 24
+DATE              :2019/11/30 13:42:39
+EVENT             :FILE SAVE END
+LOGIN NAME        :
+FILE NAME         :SVS.PRM
+
+///INDEX 25
+DATE              :2019/11/30 13:42:38
+EVENT             :FILE SAVE END
+LOGIN NAME        :
+FILE NAME         :MF.PRM
+
+///INDEX 26
+DATE              :2019/11/30 13:42:34
+EVENT             :FILE SAVE END
+LOGIN NAME        :
+FILE NAME         :SVP.PRM
+
+///INDEX 27
+DATE              :2019/11/30 13:42:33
+EVENT             :FILE SAVE END
+LOGIN NAME        :
+FILE NAME         :AMC.PRM
+
+///INDEX 28
+DATE              :2019/11/30 13:42:30
+EVENT             :FILE SAVE END
+LOGIN NAME        :
+FILE NAME         :SVM.PRM
+
+///INDEX 29
+DATE              :2019/11/30 13:42:29
+EVENT             :FILE SAVE END
+LOGIN NAME        :
+FILE NAME         :SV.PRM
+
+///INDEX 30
+DATE              :2019/11/30 13:42:25
+EVENT             :FILE SAVE END
+LOGIN NAME        :
+FILE NAME         :SE.PRM
+
+///INDEX 31
+DATE              :2019/11/30 13:42:25
+EVENT             :FILE SAVE END
+LOGIN NAME        :
+FILE NAME         :RS.PRM
+
+///INDEX 32
+DATE              :2019/11/30 13:42:25
+EVENT             :FILE SAVE END
+LOGIN NAME        :
+FILE NAME         :AP.PRM
+
+///INDEX 33
+DATE              :2019/11/30 13:42:25
+EVENT             :FILE SAVE END
+LOGIN NAME        :
+FILE NAME         :FD.PRM
+
+///INDEX 34
+DATE              :2019/11/30 13:42:25
+EVENT             :FILE SAVE END
+LOGIN NAME        :
+FILE NAME         :CIO.PRM
+
+///INDEX 35
+DATE              :2019/11/30 13:42:25
+EVENT             :FILE SAVE END
+LOGIN NAME        :
+FILE NAME         :SC.PRM
+
+///INDEX 36
+DATE              :2019/11/30 13:42:22
+EVENT             :FILE SAVE END
+LOGIN NAME        :
+FILE NAME         :RO.PRM
+
+///INDEX 37
+DATE              :2019/11/30 13:42:22
+EVENT             :FILE SAVE END
+LOGIN NAME        :
+FILE NAME         :SD.PRM
+
+///INDEX 38
+DATE              :2019/11/30 13:42:22
+EVENT             :FILE SAVE END
+LOGIN NAME        :
+FILE NAME         :RC.PRM
+
+///INDEX 39
+DATE              :2019/11/30 13:42:19
+EVENT             :FILE SAVE END
+LOGIN NAME        :
+FILE NAME         :ALL.PRM
+
+///INDEX 40
+DATE              :2019/11/30 08:53:58
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :8
+AFTER EDIT        :OFF
+
+///INDEX 41
+DATE              :2019/11/30 08:53:31
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :8
+AFTER EDIT        :ON
+
+///INDEX 42
+DATE              :2019/11/30 08:53:31
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :8
+AFTER EDIT        :OFF
+
+///INDEX 43
+DATE              :2019/11/30 08:53:30
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :8
+AFTER EDIT        :ON
+
+///INDEX 44
+DATE              :2019/11/30 08:53:29
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :8
+AFTER EDIT        :OFF
+
+///INDEX 45
+DATE              :2019/11/30 08:53:18
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :8
+AFTER EDIT        :ON
+
+///INDEX 46
+DATE              :2019/11/30 08:53:09
+EVENT             :TEACH MODE
+LOGIN NAME        :
+
+///INDEX 47
+DATE              :2019/11/30 08:53:02
+EVENT             :REMOTE MODE
+LOGIN NAME        :
+
+///INDEX 48
+DATE              :2019/11/30 08:53:02
+EVENT             :PLAY MODE
+LOGIN NAME        :
+
+///INDEX 49
+DATE              :2019/11/30 08:53:02
+EVENT             :TEACH MODE
+LOGIN NAME        :
+
+///INDEX 50
+DATE              :2019/11/30 05:31:31
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0075
+STOP FACTOR       :HOLD
+
+///INDEX 51
+DATE              :2019/11/30 05:31:14
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0017
+
+///INDEX 52
+DATE              :2019/11/30 05:30:36
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :
+
+///INDEX 53
+DATE              :2019/11/30 05:30:36
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0017
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :SAFETY FENCE
+
+///INDEX 54
+DATE              :2019/11/30 05:30:21
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0000
+
+///INDEX 55
+DATE              :2019/11/30 05:30:03
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0122
+STOP FACTOR       :END
+
+///INDEX 56
+DATE              :2019/11/30 05:29:11
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0007
+
+///INDEX 57
+DATE              :2019/11/30 05:29:08
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :0
+BEFORE EDIT       :37
+AFTER EDIT        :39
+
+///INDEX 58
+DATE              :2019/11/30 05:28:44
+EVENT             :REMOTE MODE
+LOGIN NAME        :
+
+///INDEX 59
+DATE              :2019/11/30 05:28:44
+EVENT             :POWER ON
+LOGIN NAME        :
+
+///INDEX 60
+DATE              :2019/11/30 05:27:45
+EVENT             :POWER OFF
+LOGIN NAME        :
+
+///INDEX 61
+DATE              :2019/11/30 05:27:44
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0007
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :CONTACTOR OR STO OFF1 SV#1
+
+///INDEX 62
+DATE              :2019/11/30 05:25:23
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0064
+
+///INDEX 63
+DATE              :2019/11/30 05:22:46
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0064
+STOP FACTOR       :HOLD
+
+///INDEX 64
+DATE              :2019/11/30 05:22:45
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0064
+
+///INDEX 65
+DATE              :2019/11/30 05:22:42
+EVENT             :REMOTE MODE
+LOGIN NAME        :
+
+///INDEX 66
+DATE              :2019/11/30 05:22:42
+EVENT             :PLAY MODE
+LOGIN NAME        :
+
+///INDEX 67
+DATE              :2019/11/30 05:22:40
+EVENT             :TEACH MODE
+LOGIN NAME        :
+
+///INDEX 68
+DATE              :2019/11/30 04:43:59
+EVENT             :REMOTE MODE
+LOGIN NAME        :
+
+///INDEX 69
+DATE              :2019/11/30 04:43:59
+EVENT             :POWER ON
+LOGIN NAME        :
+
+///INDEX 70
+DATE              :2019/11/30 00:47:22
+EVENT             :POWER OFF
+LOGIN NAME        :
+
+///INDEX 71
+DATE              :2019/11/30 00:44:19
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0064
+STOP FACTOR       :HOLD
+
+///INDEX 72
+DATE              :2019/11/30 00:14:09
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0064
+
+///INDEX 73
+DATE              :2019/11/29 23:58:58
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0064
+STOP FACTOR       :HOLD
+
+///INDEX 74
+DATE              :2019/11/29 23:29:26
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0074
+
+///INDEX 75
+DATE              :2019/11/29 23:29:20
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :
+
+///INDEX 76
+DATE              :2019/11/29 23:29:19
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0074
+STOP FACTOR       :HOLD
+
+///INDEX 77
+DATE              :2019/11/29 23:28:41
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0015
+
+///INDEX 78
+DATE              :2019/11/29 23:28:34
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :
+
+///INDEX 79
+DATE              :2019/11/29 23:28:34
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0015
+STOP FACTOR       :HOLD
+
+///INDEX 80
+DATE              :2019/11/29 23:27:16
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0017
+
+///INDEX 81
+DATE              :2019/11/29 23:27:10
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :
+
+///INDEX 82
+DATE              :2019/11/29 23:27:09
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0017
+STOP FACTOR       :HOLD
+
+///INDEX 83
+DATE              :2019/11/29 23:23:13
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0064
+
+///INDEX 84
+DATE              :2019/11/29 23:23:05
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0064
+STOP FACTOR       :HOLD
+
+///INDEX 85
+DATE              :2019/11/29 23:22:32
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0075
+
+///INDEX 86
+DATE              :2019/11/29 23:22:00
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0075
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 87
+DATE              :2019/11/29 23:18:05
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0064
+
+///INDEX 88
+DATE              :2019/11/29 23:18:04
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0064
+STOP FACTOR       :HOLD
+
+///INDEX 89
+DATE              :2019/11/29 22:57:57
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0015
+
+///INDEX 90
+DATE              :2019/11/29 22:57:44
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :
+
+///INDEX 91
+DATE              :2019/11/29 22:57:44
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0015
+STOP FACTOR       :HOLD
+
+///INDEX 92
+DATE              :2019/11/29 22:56:57
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0013
+
+///INDEX 93
+DATE              :2019/11/29 22:56:46
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :
+
+///INDEX 94
+DATE              :2019/11/29 22:56:45
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0013
+STOP FACTOR       :HOLD
+
+///INDEX 95
+DATE              :2019/11/29 22:56:03
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0072
+
+///INDEX 96
+DATE              :2019/11/29 22:55:53
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :
+
+///INDEX 97
+DATE              :2019/11/29 22:55:53
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0072
+STOP FACTOR       :HOLD
+
+///INDEX 98
+DATE              :2019/11/29 22:55:04
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0012
+
+///INDEX 99
+DATE              :2019/11/29 22:54:55
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :
+
+///INDEX 100
+DATE              :2019/11/29 22:54:55
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0012
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :PLAY -> TEACH MODE CHANGE
+
+///INDEX 101
+DATE              :2019/11/29 20:54:01
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0001
+
+///INDEX 102
+DATE              :2019/11/29 20:53:56
+EVENT             :REMOTE MODE
+LOGIN NAME        :
+
+///INDEX 103
+DATE              :2019/11/29 20:53:56
+EVENT             :PLAY MODE
+LOGIN NAME        :
+
+///INDEX 104
+DATE              :2019/11/29 20:53:51
+EVENT             :TEACH MODE
+LOGIN NAME        :
+
+///INDEX 105
+DATE              :2019/11/29 20:53:46
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+
+///INDEX 106
+DATE              :2019/11/29 20:53:44
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0007
+STOP FACTOR       :HOLD
+
+///INDEX 107
+DATE              :2019/11/29 20:53:10
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0007
+
+///INDEX 108
+DATE              :2019/11/29 20:52:58
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :
+
+///INDEX 109
+DATE              :2019/11/29 20:52:37
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0007
+STOP FACTOR       :HOLD
+
+///INDEX 110
+DATE              :2019/11/29 20:52:28
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0007
+
+///INDEX 111
+DATE              :2019/11/29 20:52:06
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0007
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :PLAY -> TEACH MODE CHANGE
+
+///INDEX 112
+DATE              :2019/11/29 20:52:04
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0007
+
+///INDEX 113
+DATE              :2019/11/29 20:51:56
+EVENT             :REMOTE MODE
+LOGIN NAME        :
+
+///INDEX 114
+DATE              :2019/11/29 20:51:56
+EVENT             :PLAY MODE
+LOGIN NAME        :
+
+///INDEX 115
+DATE              :2019/11/29 20:51:56
+EVENT             :TEACH MODE
+LOGIN NAME        :
+
+///INDEX 116
+DATE              :2019/11/29 20:51:53
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0007
+STOP FACTOR       :HOLD
+
+///INDEX 117
+DATE              :2019/11/29 20:51:45
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0001
+
+///INDEX 118
+DATE              :2019/11/29 20:51:17
+EVENT             :REMOTE MODE
+LOGIN NAME        :
+
+///INDEX 119
+DATE              :2019/11/29 20:51:17
+EVENT             :PLAY MODE
+LOGIN NAME        :
+
+///INDEX 120
+DATE              :2019/11/29 20:51:17
+EVENT             :TEACH MODE
+LOGIN NAME        :
+
+///INDEX 121
+DATE              :2019/11/29 20:51:16
+EVENT             :REMOTE MODE
+LOGIN NAME        :
+
+///INDEX 122
+DATE              :2019/11/29 20:51:16
+EVENT             :PLAY MODE
+LOGIN NAME        :
+
+///INDEX 123
+DATE              :2019/11/29 20:51:15
+EVENT             :TEACH MODE
+LOGIN NAME        :
+
+///INDEX 124
+DATE              :2019/11/29 20:51:09
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :5
+BEFORE EDIT       :460
+AFTER EDIT        :0
+
+///INDEX 125
+DATE              :2019/11/29 20:51:07
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :6
+BEFORE EDIT       :460
+AFTER EDIT        :0
+
+///INDEX 126
+DATE              :2019/11/29 20:50:39
+EVENT             :REMOTE MODE
+LOGIN NAME        :
+
+///INDEX 127
+DATE              :2019/11/29 20:50:34
+EVENT             :REMOTE MODE
+LOGIN NAME        :
+
+///INDEX 128
+DATE              :2019/11/29 20:50:34
+EVENT             :PLAY MODE
+LOGIN NAME        :
+
+///INDEX 129
+DATE              :2019/11/29 20:50:27
+EVENT             :TEACH MODE
+LOGIN NAME        :
+
+///INDEX 130
+DATE              :2019/11/29 20:49:45
+EVENT             :REMOTE MODE
+LOGIN NAME        :
+
+///INDEX 131
+DATE              :2019/11/29 20:49:45
+EVENT             :PLAY MODE
+LOGIN NAME        :
+
+///INDEX 132
+DATE              :2019/11/29 20:49:43
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0001
+STOP FACTOR       :DONE
+
+///INDEX 133
+DATE              :2019/11/29 20:49:41
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0001
+
+///INDEX 134
+DATE              :2019/11/29 20:49:41
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0001
+STOP FACTOR       :KEY OFF
+
+///INDEX 135
+DATE              :2019/11/29 20:49:41
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0001
+
+///INDEX 136
+DATE              :2019/11/29 20:49:35
+EVENT             :TEACH MODE
+LOGIN NAME        :
+
+///INDEX 137
+DATE              :2019/11/29 20:49:35
+EVENT             :REMOTE MODE
+LOGIN NAME        :
+
+///INDEX 138
+DATE              :2019/11/29 20:49:35
+EVENT             :PLAY MODE
+LOGIN NAME        :
+
+///INDEX 139
+DATE              :2019/11/29 20:49:30
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+
+///INDEX 140
+DATE              :2019/11/29 20:49:25
+EVENT             :TEACH MODE
+LOGIN NAME        :
+
+///INDEX 141
+DATE              :2019/11/29 20:49:03
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0011
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 142
+DATE              :2019/11/29 20:49:02
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0001
+
+///INDEX 143
+DATE              :2019/11/29 20:48:56
+EVENT             :REMOTE MODE
+LOGIN NAME        :
+
+///INDEX 144
+DATE              :2019/11/29 20:48:55
+EVENT             :PLAY MODE
+LOGIN NAME        :
+
+///INDEX 145
+DATE              :2019/11/29 20:48:53
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0001
+STOP FACTOR       :DONE
+
+///INDEX 146
+DATE              :2019/11/29 20:48:53
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0001
+
+///INDEX 147
+DATE              :2019/11/29 20:48:53
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0001
+STOP FACTOR       :DONE
+
+///INDEX 148
+DATE              :2019/11/29 20:48:53
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0001
+
+///INDEX 149
+DATE              :2019/11/29 20:48:52
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0001
+STOP FACTOR       :DONE
+
+///INDEX 150
+DATE              :2019/11/29 20:48:52
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0001
+
+///INDEX 151
+DATE              :2019/11/29 20:48:52
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0001
+STOP FACTOR       :DONE
+
+///INDEX 152
+DATE              :2019/11/29 20:48:52
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0001
+
+///INDEX 153
+DATE              :2019/11/29 20:48:52
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0001
+STOP FACTOR       :DONE
+
+///INDEX 154
+DATE              :2019/11/29 20:48:52
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0001
+
+///INDEX 155
+DATE              :2019/11/29 20:48:52
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0001
+STOP FACTOR       :DONE
+
+///INDEX 156
+DATE              :2019/11/29 20:48:52
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0001
+
+///INDEX 157
+DATE              :2019/11/29 20:48:50
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0001
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :PLAY -> TEACH MODE CHANGE
+
+///INDEX 158
+DATE              :2019/11/29 20:48:46
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0001
+
+///INDEX 159
+DATE              :2019/11/29 20:44:53
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :
+
+///INDEX 160
+DATE              :2019/11/29 20:44:04
+EVENT             :TEACH MODE
+LOGIN NAME        :
+
+///INDEX 161
+DATE              :2019/11/29 20:44:01
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+
+///INDEX 162
+DATE              :2019/11/29 20:43:50
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0018
+STOP FACTOR       :HOLD
+
+///INDEX 163
+DATE              :2019/11/29 20:43:47
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0007
+
+///INDEX 164
+DATE              :2019/11/29 19:53:09
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0007
+STOP FACTOR       :HOLD
+
+///INDEX 165
+DATE              :2019/11/29 19:40:39
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0013
+
+///INDEX 166
+DATE              :2019/11/29 19:40:37
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0013
+STOP FACTOR       :HOLD
+
+///INDEX 167
+DATE              :2019/11/29 19:40:09
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0121
+
+///INDEX 168
+DATE              :2019/11/29 19:39:56
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0121
+STOP FACTOR       :HOLD
+
+///INDEX 169
+DATE              :2019/11/29 19:38:22
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0007
+
+///INDEX 170
+DATE              :2019/11/29 19:38:11
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0007
+STOP FACTOR       :HOLD
+
+///INDEX 171
+DATE              :2019/11/29 19:37:43
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0121
+
+///INDEX 172
+DATE              :2019/11/29 19:37:21
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0121
+STOP FACTOR       :HOLD
+
+///INDEX 173
+DATE              :2019/11/29 19:35:44
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0007
+
+///INDEX 174
+DATE              :2019/11/29 19:35:32
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0007
+STOP FACTOR       :HOLD
+
+///INDEX 175
+DATE              :2019/11/29 18:48:32
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0015
+
+///INDEX 176
+DATE              :2019/11/29 18:48:07
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :
+
+///INDEX 177
+DATE              :2019/11/29 18:48:05
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0015
+STOP FACTOR       :HOLD
+
+///INDEX 178
+DATE              :2019/11/29 18:46:42
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0075
+
+///INDEX 179
+DATE              :2019/11/29 18:45:34
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0075
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 180
+DATE              :2019/11/29 18:45:34
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0075
+
+///INDEX 181
+DATE              :2019/11/29 18:45:31
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0075
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 182
+DATE              :2019/11/29 18:45:31
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0075
+
+///INDEX 183
+DATE              :2019/11/29 18:45:26
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0075
+STOP FACTOR       :END
+
+///INDEX 184
+DATE              :2019/11/29 18:45:23
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0017
+
+///INDEX 185
+DATE              :2019/11/29 18:45:13
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0017
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 186
+DATE              :2019/11/29 18:45:12
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0013
+
+///INDEX 187
+DATE              :2019/11/29 18:45:06
+EVENT             :REMOTE MODE
+LOGIN NAME        :
+
+///INDEX 188
+DATE              :2019/11/29 18:45:06
+EVENT             :PLAY MODE
+LOGIN NAME        :
+
+///INDEX 189
+DATE              :2019/11/29 18:44:52
+EVENT             :POWER ON
+LOGIN NAME        :
+
+///INDEX 190
+DATE              :2019/11/29 18:43:53
+EVENT             :POWER OFF
+LOGIN NAME        :
+
+///INDEX 191
+DATE              :2019/11/29 18:43:35
+EVENT             :TEACH MODE
+LOGIN NAME        :
+
+///INDEX 192
+DATE              :2019/11/29 18:43:11
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0013
+STOP FACTOR       :END
+
+///INDEX 193
+DATE              :2019/11/29 18:43:11
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0013
+
+///INDEX 194
+DATE              :2019/11/29 18:42:57
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0013
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 195
+DATE              :2019/11/29 18:42:56
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0013
+
+///INDEX 196
+DATE              :2019/11/29 18:42:52
+EVENT             :REMOTE MODE
+LOGIN NAME        :
+
+///INDEX 197
+DATE              :2019/11/29 18:42:52
+EVENT             :PLAY MODE
+LOGIN NAME        :
+
+///INDEX 198
+DATE              :2019/11/29 18:42:51
+EVENT             :TEACH MODE
+LOGIN NAME        :
+
+///INDEX 199
+DATE              :2019/11/29 18:42:26
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :
+
+///INDEX 200
+DATE              :2019/11/29 18:42:24
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0013
+STOP FACTOR       :HOLD
+
+///INDEX 201
+DATE              :2019/11/29 18:29:21
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0007
+
+///INDEX 202
+DATE              :2019/11/29 18:29:19
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :0
+BEFORE EDIT       :3738
+AFTER EDIT        :37
+
+///INDEX 203
+DATE              :2019/11/29 18:29:12
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0007
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 204
+DATE              :2019/11/29 18:28:42
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0001
+
+///INDEX 205
+DATE              :2019/11/29 18:26:18
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :5
+BEFORE EDIT       :762
+AFTER EDIT        :0
+
+///INDEX 206
+DATE              :2019/11/29 18:26:17
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :6
+BEFORE EDIT       :762
+AFTER EDIT        :0
+
+///INDEX 207
+DATE              :2019/11/29 18:19:21
+EVENT             :REMOTE MODE
+LOGIN NAME        :
+
+///INDEX 208
+DATE              :2019/11/29 18:19:21
+EVENT             :PLAY MODE
+LOGIN NAME        :
+
+///INDEX 209
+DATE              :2019/11/29 18:19:14
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0001
+STOP FACTOR       :DONE
+
+///INDEX 210
+DATE              :2019/11/29 18:19:10
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0001
+
+///INDEX 211
+DATE              :2019/11/29 18:18:55
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0001
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :PLAY -> TEACH MODE CHANGE
+
+///INDEX 212
+DATE              :2019/11/29 18:18:55
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0001
+
+///INDEX 213
+DATE              :2019/11/29 18:18:47
+EVENT             :TEACH MODE
+LOGIN NAME        :
+
+///INDEX 214
+DATE              :2019/11/29 18:18:46
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+
+///INDEX 215
+DATE              :2019/11/29 18:18:34
+EVENT             :REMOTE MODE
+LOGIN NAME        :
+
+///INDEX 216
+DATE              :2019/11/29 18:18:34
+EVENT             :PLAY MODE
+LOGIN NAME        :
+
+///INDEX 217
+DATE              :2019/11/29 18:18:34
+EVENT             :TEACH MODE
+LOGIN NAME        :
+
+///INDEX 218
+DATE              :2019/11/29 18:18:26
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0017
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 219
+DATE              :2019/11/29 18:18:26
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0017
+
+///INDEX 220
+DATE              :2019/11/29 18:18:18
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0017
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 221
+DATE              :2019/11/29 18:18:18
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0017
+
+///INDEX 222
+DATE              :2019/11/29 18:18:10
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0017
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 223
+DATE              :2019/11/29 18:18:09
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0011
+
+///INDEX 224
+DATE              :2019/11/29 18:17:56
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0011
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 225
+DATE              :2019/11/29 18:17:55
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0075
+
+///INDEX 226
+DATE              :2019/11/29 18:17:02
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0075
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 227
+DATE              :2019/11/29 18:07:34
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0001
+
+///INDEX 228
+DATE              :2019/11/29 18:07:23
+EVENT             :REMOTE MODE
+LOGIN NAME        :
+
+///INDEX 229
+DATE              :2019/11/29 18:07:22
+EVENT             :PLAY MODE
+LOGIN NAME        :
+
+///INDEX 230
+DATE              :2019/11/29 18:07:21
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0001
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :PLAY -> TEACH MODE CHANGE
+
+///INDEX 231
+DATE              :2019/11/29 18:07:17
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0001
+
+///INDEX 232
+DATE              :2019/11/29 18:07:11
+EVENT             :TEACH MODE
+LOGIN NAME        :
+
+///INDEX 233
+DATE              :2019/11/29 18:07:08
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+
+///INDEX 234
+DATE              :2019/11/29 18:06:56
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0017
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 235
+DATE              :2019/11/29 18:06:56
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0017
+
+///INDEX 236
+DATE              :2019/11/29 18:06:41
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0017
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 237
+DATE              :2019/11/29 18:06:40
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0008
+
+///INDEX 238
+DATE              :2019/11/29 18:06:27
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0008
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 239
+DATE              :2019/11/29 18:06:27
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0001
+
+///INDEX 240
+DATE              :2019/11/29 18:06:24
+EVENT             :REMOTE MODE
+LOGIN NAME        :
+
+///INDEX 241
+DATE              :2019/11/29 18:06:24
+EVENT             :PLAY MODE
+LOGIN NAME        :
+
+///INDEX 242
+DATE              :2019/11/29 18:05:26
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0001
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :PLAY -> TEACH MODE CHANGE
+
+///INDEX 243
+DATE              :2019/11/29 18:05:21
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0001
+
+///INDEX 244
+DATE              :2019/11/29 18:05:00
+EVENT             :TEACH MODE
+LOGIN NAME        :
+
+///INDEX 245
+DATE              :2019/11/29 18:04:57
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+
+///INDEX 246
+DATE              :2019/11/29 18:04:51
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0065
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 247
+DATE              :2019/11/29 18:04:51
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0065
+
+///INDEX 248
+DATE              :2019/11/29 17:58:23
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0065
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 249
+DATE              :2019/11/29 17:58:23
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0064
+
+///INDEX 250
+DATE              :2019/11/29 17:51:30
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0064
+STOP FACTOR       :HOLD
+
+///INDEX 251
+DATE              :2019/11/29 17:31:31
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0070
+
+///INDEX 252
+DATE              :2019/11/29 17:31:20
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0070
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 253
+DATE              :2019/11/29 17:31:19
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0070
+
+///INDEX 254
+DATE              :2019/11/29 17:29:52
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0070
+STOP FACTOR       :HOLD
+
+///INDEX 255
+DATE              :2019/11/29 17:29:28
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0070
+
+///INDEX 256
+DATE              :2019/11/29 17:29:26
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0070
+STOP FACTOR       :HOLD
+
+///INDEX 257
+DATE              :2019/11/29 17:28:57
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0018
+
+///INDEX 258
+DATE              :2019/11/29 17:28:55
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0018
+STOP FACTOR       :HOLD
+
+///INDEX 259
+DATE              :2019/11/29 17:28:34
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0007
+
+///INDEX 260
+DATE              :2019/11/29 17:28:33
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0007
+STOP FACTOR       :HOLD
+
+///INDEX 261
+DATE              :2019/11/29 16:37:08
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0069
+
+///INDEX 262
+DATE              :2019/11/29 16:34:43
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0069
+STOP FACTOR       :HOLD
+
+///INDEX 263
+DATE              :2019/11/29 16:24:44
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0007
+
+///INDEX 264
+DATE              :2019/11/29 16:24:40
+EVENT             :REMOTE MODE
+LOGIN NAME        :
+
+///INDEX 265
+DATE              :2019/11/29 16:24:40
+EVENT             :PLAY MODE
+LOGIN NAME        :
+
+///INDEX 266
+DATE              :2019/11/29 16:24:40
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0007
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :CATEGORY1 REQUEST
+
+///INDEX 267
+DATE              :2019/11/29 16:24:39
+EVENT             :TEACH MODE
+LOGIN NAME        :
+
+///INDEX 268
+DATE              :2019/11/29 16:24:36
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0001
+
+///INDEX 269
+DATE              :2019/11/29 16:24:35
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :5
+BEFORE EDIT       :9082
+AFTER EDIT        :0
+
+///INDEX 270
+DATE              :2019/11/29 16:24:33
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :6
+BEFORE EDIT       :9082
+AFTER EDIT        :0
+
+///INDEX 271
+DATE              :2019/11/29 16:24:25
+EVENT             :REMOTE MODE
+LOGIN NAME        :
+
+///INDEX 272
+DATE              :2019/11/29 16:24:24
+EVENT             :PLAY MODE
+LOGIN NAME        :
+
+///INDEX 273
+DATE              :2019/11/29 16:24:22
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0001
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :PLAY -> TEACH MODE CHANGE
+
+///INDEX 274
+DATE              :2019/11/29 16:24:19
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0001
+
+///INDEX 275
+DATE              :2019/11/29 16:24:10
+EVENT             :TEACH MODE
+LOGIN NAME        :
+
+///INDEX 276
+DATE              :2019/11/29 16:24:07
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+
+///INDEX 277
+DATE              :2019/11/29 16:23:56
+EVENT             :REMOTE MODE
+LOGIN NAME        :
+
+///INDEX 278
+DATE              :2019/11/29 16:23:56
+EVENT             :PLAY MODE
+LOGIN NAME        :
+
+///INDEX 279
+DATE              :2019/11/29 16:23:56
+EVENT             :TEACH MODE
+LOGIN NAME        :
+
+///INDEX 280
+DATE              :2019/11/29 16:23:45
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0017
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 281
+DATE              :2019/11/29 16:23:45
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0017
+
+///INDEX 282
+DATE              :2019/11/29 16:23:34
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0017
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 283
+DATE              :2019/11/29 16:23:34
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0017
+
+///INDEX 284
+DATE              :2019/11/29 16:23:26
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0017
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 285
+DATE              :2019/11/29 16:23:24
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0008
+
+///INDEX 286
+DATE              :2019/11/29 16:23:13
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0008
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 287
+DATE              :2019/11/29 16:23:13
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0001
+
+///INDEX 288
+DATE              :2019/11/29 16:23:11
+EVENT             :REMOTE MODE
+LOGIN NAME        :
+
+///INDEX 289
+DATE              :2019/11/29 16:23:10
+EVENT             :PLAY MODE
+LOGIN NAME        :
+
+///INDEX 290
+DATE              :2019/11/29 16:19:10
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0001
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :PLAY -> TEACH MODE CHANGE
+
+///INDEX 291
+DATE              :2019/11/29 16:19:07
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0001
+
+///INDEX 292
+DATE              :2019/11/29 16:18:22
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+
+///INDEX 293
+DATE              :2019/11/29 16:18:19
+EVENT             :TEACH MODE
+LOGIN NAME        :
+
+///INDEX 294
+DATE              :2019/11/29 16:18:09
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0017
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 295
+DATE              :2019/11/29 16:18:09
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0017
+
+///INDEX 296
+DATE              :2019/11/29 16:17:55
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0017
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 297
+DATE              :2019/11/29 16:17:53
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0012
+
+///INDEX 298
+DATE              :2019/11/29 16:17:24
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0012
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 299
+DATE              :2019/11/29 16:05:12
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0064
+
+///INDEX 300
+DATE              :2019/11/29 16:04:36
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :
+
+///INDEX 301
+DATE              :2019/11/29 16:04:35
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0064
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 302
+DATE              :2019/11/29 15:25:05
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0074
+
+///INDEX 303
+DATE              :2019/11/29 15:20:23
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0074
+STOP FACTOR       :HOLD
+
+///INDEX 304
+DATE              :2019/11/29 15:20:03
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0018
+
+///INDEX 305
+DATE              :2019/11/29 15:13:15
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0018
+STOP FACTOR       :HOLD
+
+///INDEX 306
+DATE              :2019/11/29 14:42:56
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0015
+
+///INDEX 307
+DATE              :2019/11/29 14:30:41
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0015
+STOP FACTOR       :HOLD
+
+///INDEX 308
+DATE              :2019/11/29 12:15:37
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0074
+
+///INDEX 309
+DATE              :2019/11/29 12:09:41
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0074
+STOP FACTOR       :HOLD
+
+///INDEX 310
+DATE              :2019/11/29 11:39:57
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0064
+
+///INDEX 311
+DATE              :2019/11/29 11:35:46
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0064
+STOP FACTOR       :HOLD
+
+///INDEX 312
+DATE              :2019/11/29 11:35:14
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0019
+
+///INDEX 313
+DATE              :2019/11/29 10:40:07
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0019
+STOP FACTOR       :HOLD
+
+///INDEX 314
+DATE              :2019/11/29 09:51:34
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0015
+
+///INDEX 315
+DATE              :2019/11/29 09:51:17
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :
+
+///INDEX 316
+DATE              :2019/11/29 09:51:17
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0015
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :SAFETY FENCE
+
+///INDEX 317
+DATE              :2019/11/29 09:13:28
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0069
+
+///INDEX 318
+DATE              :2019/11/29 09:06:47
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :0
+BEFORE EDIT       :39
+AFTER EDIT        :3738
+
+///INDEX 319
+DATE              :2019/11/29 09:06:37
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0069
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 320
+DATE              :2019/11/29 09:04:37
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0070
+
+///INDEX 321
+DATE              :2019/11/29 09:00:24
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0070
+STOP FACTOR       :HOLD
+
+///INDEX 322
+DATE              :2019/11/29 08:41:00
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0074
+
+///INDEX 323
+DATE              :2019/11/29 08:40:45
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :
+
+///INDEX 324
+DATE              :2019/11/29 08:40:45
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0074
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :SAFETY FENCE
+
+///INDEX 325
+DATE              :2019/11/29 08:29:32
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0070
+
+///INDEX 326
+DATE              :2019/11/29 08:29:15
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :
+
+///INDEX 327
+DATE              :2019/11/29 08:29:15
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0070
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :SAFETY FENCE
+
+///INDEX 328
+DATE              :2019/11/29 08:11:53
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0070
+
+///INDEX 329
+DATE              :2019/11/29 08:11:35
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :
+
+///INDEX 330
+DATE              :2019/11/29 08:11:35
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0070
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :SAFETY FENCE
+
+///INDEX 331
+DATE              :2019/11/29 07:13:45
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0019
+
+///INDEX 332
+DATE              :2019/11/29 07:11:48
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0019
+STOP FACTOR       :HOLD
+
+///INDEX 333
+DATE              :2019/11/29 06:22:54
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0065
+
+///INDEX 334
+DATE              :2019/11/29 06:22:28
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0065
+STOP FACTOR       :HOLD
+
+///INDEX 335
+DATE              :2019/11/29 06:18:27
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0074
+
+///INDEX 336
+DATE              :2019/11/29 06:18:14
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :
+
+///INDEX 337
+DATE              :2019/11/29 06:18:14
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0074
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :SAFETY FENCE
+
+///INDEX 338
+DATE              :2019/11/29 06:06:05
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0007
+
+///INDEX 339
+DATE              :2019/11/29 06:05:44
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0007
+STOP FACTOR       :HOLD
+
+///INDEX 340
+DATE              :2019/11/29 05:42:41
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0012
+
+///INDEX 341
+DATE              :2019/11/29 05:42:32
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :
+
+///INDEX 342
+DATE              :2019/11/29 05:42:32
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0012
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :SAFETY FENCE
+
+///INDEX 343
+DATE              :2019/11/29 05:41:03
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0013
+
+///INDEX 344
+DATE              :2019/11/29 05:40:52
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :
+
+///INDEX 345
+DATE              :2019/11/29 05:40:52
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0013
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :SAFETY FENCE
+
+///INDEX 346
+DATE              :2019/11/29 05:35:25
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0075
+
+///INDEX 347
+DATE              :2019/11/29 05:35:17
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :
+
+///INDEX 348
+DATE              :2019/11/29 05:35:17
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0075
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :SAFETY FENCE
+
+///INDEX 349
+DATE              :2019/11/29 05:32:37
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0001
+
+///INDEX 350
+DATE              :2019/11/29 05:32:36
+EVENT             :REMOTE MODE
+LOGIN NAME        :
+
+///INDEX 351
+DATE              :2019/11/29 05:32:36
+EVENT             :PLAY MODE
+LOGIN NAME        :
+
+///INDEX 352
+DATE              :2019/11/29 05:32:35
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0001
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :PLAY -> TEACH MODE CHANGE
+
+///INDEX 353
+DATE              :2019/11/29 05:32:32
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0001
+
+///INDEX 354
+DATE              :2019/11/29 05:32:25
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+
+///INDEX 355
+DATE              :2019/11/29 05:32:22
+EVENT             :TEACH MODE
+LOGIN NAME        :
+
+///INDEX 356
+DATE              :2019/11/29 05:32:14
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0069
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 357
+DATE              :2019/11/29 05:32:14
+EVENT             :START
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+LINE              :0069
+
+///INDEX 358
+DATE              :2019/11/29 05:19:49
+EVENT             :REMOTE MODE
+LOGIN NAME        :
+
+///INDEX 359
+DATE              :2019/11/29 05:19:49
+EVENT             :PLAY MODE
+LOGIN NAME        :
+
+///INDEX 360
+DATE              :2019/11/29 05:19:25
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+
+///INDEX 361
+DATE              :2019/11/29 05:19:15
+EVENT             :TEACH MODE
+LOGIN NAME        :
+
+///INDEX 362
+DATE              :2019/11/29 05:18:51
+EVENT             :REMOTE MODE
+LOGIN NAME        :
+
+///INDEX 363
+DATE              :2019/11/29 05:18:51
+EVENT             :PLAY MODE
+LOGIN NAME        :
+
+///INDEX 364
+DATE              :2019/11/29 05:18:51
+EVENT             :TEACH MODE
+LOGIN NAME        :
+
+///INDEX 365
+DATE              :2019/11/29 05:18:45
+EVENT             :REMOTE MODE
+LOGIN NAME        :
+
+///INDEX 366
+DATE              :2019/11/29 05:18:45
+EVENT             :PLAY MODE
+LOGIN NAME        :
+
+///INDEX 367
+DATE              :2019/11/29 05:18:42
+EVENT             :TEACH MODE
+LOGIN NAME        :
+
+///INDEX 368
+DATE              :2019/11/29 04:41:30
+EVENT             :REMOTE MODE
+LOGIN NAME        :
+
+///INDEX 369
+DATE              :2019/11/29 04:41:30
+EVENT             :POWER ON
+LOGIN NAME        :
+
+///INDEX 370
+DATE              :2019/11/29 00:48:26
+EVENT             :POWER OFF
+LOGIN NAME        :
+
+///INDEX 371
+DATE              :2019/11/29 00:28:51
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :
+
+///INDEX 372
+DATE              :2019/11/28 20:52:33
+EVENT             :REMOTE MODE
+LOGIN NAME        :
+
+///INDEX 373
+DATE              :2019/11/28 20:52:33
+EVENT             :PLAY MODE
+LOGIN NAME        :
+
+///INDEX 374
+DATE              :2019/11/28 20:51:54
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+
+///INDEX 375
+DATE              :2019/11/28 20:51:48
+EVENT             :TEACH MODE
+LOGIN NAME        :
+
+///INDEX 376
+DATE              :2019/11/28 20:51:45
+EVENT             :REMOTE MODE
+LOGIN NAME        :
+
+///INDEX 377
+DATE              :2019/11/28 20:51:45
+EVENT             :PLAY MODE
+LOGIN NAME        :
+
+///INDEX 378
+DATE              :2019/11/28 20:51:45
+EVENT             :TEACH MODE
+LOGIN NAME        :
+
+///INDEX 379
+DATE              :2019/11/28 20:50:59
+EVENT             :REMOTE MODE
+LOGIN NAME        :
+
+///INDEX 380
+DATE              :2019/11/28 20:50:59
+EVENT             :PLAY MODE
+LOGIN NAME        :
+
+///INDEX 381
+DATE              :2019/11/28 20:47:45
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+
+///INDEX 382
+DATE              :2019/11/28 20:47:32
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+
+///INDEX 383
+DATE              :2019/11/28 20:47:24
+EVENT             :TEACH MODE
+LOGIN NAME        :
+
+///INDEX 384
+DATE              :2019/11/28 20:47:09
+EVENT             :REMOTE MODE
+LOGIN NAME        :
+
+///INDEX 385
+DATE              :2019/11/28 20:47:09
+EVENT             :PLAY MODE
+LOGIN NAME        :
+
+///INDEX 386
+DATE              :2019/11/28 20:43:42
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :
+
+///INDEX 387
+DATE              :2019/11/28 20:43:15
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+
+///INDEX 388
+DATE              :2019/11/28 20:43:10
+EVENT             :TEACH MODE
+LOGIN NAME        :
+
+///INDEX 389
+DATE              :2019/11/28 20:43:07
+EVENT             :PLAY MODE
+LOGIN NAME        :
+
+///INDEX 390
+DATE              :2019/11/28 20:43:06
+EVENT             :TEACH MODE
+LOGIN NAME        :
+
+///INDEX 391
+DATE              :2019/11/28 20:43:02
+EVENT             :REMOTE MODE
+LOGIN NAME        :
+
+///INDEX 392
+DATE              :2019/11/28 20:43:02
+EVENT             :PLAY MODE
+LOGIN NAME        :
+
+///INDEX 393
+DATE              :2019/11/28 20:43:01
+EVENT             :TEACH MODE
+LOGIN NAME        :
+
+///INDEX 394
+DATE              :2019/11/28 20:43:00
+EVENT             :REMOTE MODE
+LOGIN NAME        :
+
+///INDEX 395
+DATE              :2019/11/28 20:42:50
+EVENT             :PLAY MODE
+LOGIN NAME        :
+
+///INDEX 396
+DATE              :2019/11/28 20:42:50
+EVENT             :TEACH MODE
+LOGIN NAME        :
+
+///INDEX 397
+DATE              :2019/11/28 20:42:37
+EVENT             :REMOTE MODE
+LOGIN NAME        :
+
+///INDEX 398
+DATE              :2019/11/28 20:42:37
+EVENT             :PLAY MODE
+LOGIN NAME        :
+
+///INDEX 399
+DATE              :2019/11/28 20:42:34
+EVENT             :TEACH MODE
+LOGIN NAME        :
+
+///INDEX 400
+DATE              :2019/11/28 20:42:31
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+
+///INDEX 401
+DATE              :2019/11/28 20:42:21
+EVENT             :REMOTE MODE
+LOGIN NAME        :
+
+///INDEX 402
+DATE              :2019/11/28 20:42:21
+EVENT             :PLAY MODE
+LOGIN NAME        :
+
+///INDEX 403
+DATE              :2019/11/28 20:42:21
+EVENT             :TEACH MODE
+LOGIN NAME        :
+
+///INDEX 404
+DATE              :2019/11/28 20:42:18
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+
+///INDEX 405
+DATE              :2019/11/28 18:56:28
+EVENT             :REMOTE MODE
+LOGIN NAME        :
+
+///INDEX 406
+DATE              :2019/11/28 18:56:28
+EVENT             :PLAY MODE
+LOGIN NAME        :
+
+///INDEX 407
+DATE              :2019/11/28 18:55:15
+EVENT             :TEACH MODE
+LOGIN NAME        :
+
+///INDEX 408
+DATE              :2019/11/28 18:55:09
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :PINTURA
+
+///INDEX 409
+DATE              :2019/11/28 18:54:47
+EVENT             :REMOTE MODE
+LOGIN NAME        :
+
+///INDEX 410
+DATE              :2019/11/28 18:54:47
+EVENT             :PLAY MODE
+LOGIN NAME        :
+
+///INDEX 411
+DATE              :2019/11/28 18:54:47
+EVENT             :TEACH MODE
+LOGIN NAME        :
+
+///INDEX 412
+DATE              :2019/11/28 18:53:59
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :
+
+///INDEX 413
+DATE              :2019/11/28 18:53:45
+EVENT             :REMOTE MODE
+LOGIN NAME        :
+
+///INDEX 414
+DATE              :2019/11/28 18:53:45
+EVENT             :POWER ON
+LOGIN NAME        :
+
+///INDEX 415
+DATE              :2019/11/28 18:52:48
+EVENT             :POWER OFF
+LOGIN NAME        :
+
+///INDEX 416
+DATE              :2019/11/28 16:03:53
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :5
+BEFORE EDIT       :14179
+AFTER EDIT        :0
+
+///INDEX 417
+DATE              :2019/11/28 16:03:51
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :6
+BEFORE EDIT       :14179
+AFTER EDIT        :0
+
+///INDEX 418
+DATE              :2019/11/28 13:23:11
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :0
+BEFORE EDIT       :37
+AFTER EDIT        :39
+
+///INDEX 419
+DATE              :2019/11/28 08:23:15
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :0
+BEFORE EDIT       :36
+AFTER EDIT        :37
+
+///INDEX 420
+DATE              :2019/11/28 05:20:22
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :0
+BEFORE EDIT       :43
+AFTER EDIT        :36
+
+///INDEX 421
+DATE              :2019/11/27 22:22:52
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :0
+BEFORE EDIT       :42
+AFTER EDIT        :43
+
+///INDEX 422
+DATE              :2019/11/27 22:16:24
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :0
+BEFORE EDIT       :39
+AFTER EDIT        :42
+
+///INDEX 423
+DATE              :2019/11/27 22:09:04
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :0
+BEFORE EDIT       :37
+AFTER EDIT        :39
+
+///INDEX 424
+DATE              :2019/11/27 17:07:36
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :0
+BEFORE EDIT       :36
+AFTER EDIT        :37
+
+///INDEX 425
+DATE              :2019/11/27 16:50:15
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :0
+BEFORE EDIT       :37
+AFTER EDIT        :36
+
+///INDEX 426
+DATE              :2019/11/27 12:27:30
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :MASTER_PINTURA_ADULTO
+LINE              :0164
+AFTER EDIT        : SETE P007 (1) -150000 
+CURR VALUE
+
+///INDEX 427
+DATE              :2019/11/27 12:27:23
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :MASTER_PINTURA_ADULTO
+LINE              :0159
+AFTER EDIT        : SETE P006 (1) -150000 
+CURR VALUE
+
+///INDEX 428
+DATE              :2019/11/27 12:27:07
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :MASTER_PINTURA_ADULTO
+LINE              :0144
+AFTER EDIT        : SETE P003 (1) 110000 
+CURR VALUE
+
+///INDEX 429
+DATE              :2019/11/27 12:26:59
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :MASTER_PINTURA_ADULTO
+LINE              :0139
+AFTER EDIT        : SETE P002 (1) 110000 
+CURR VALUE
+
+///INDEX 430
+DATE              :2019/11/27 12:26:26
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :MASTER_PINTURA_ADULTO
+LINE              :0144
+AFTER EDIT        : SETE P003 (1) 100000 
+CURR VALUE
+
+///INDEX 431
+DATE              :2019/11/27 12:26:19
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :MASTER_PINTURA_ADULTO
+LINE              :0139
+AFTER EDIT        : SETE P002 (1) 100000 
+CURR VALUE
+
+///INDEX 432
+DATE              :2019/11/27 12:25:34
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :MASTER_PINTURA_ADULTO
+LINE              :0144
+AFTER EDIT        : SETE P003 (1) 70000 
+CURR VALUE
+
+///INDEX 433
+DATE              :2019/11/27 12:25:28
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :MASTER_PINTURA_ADULTO
+LINE              :0139
+AFTER EDIT        : SETE P002 (1) 70000 
+CURR VALUE
+
+///INDEX 434
+DATE              :2019/11/27 12:22:28
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :0
+BEFORE EDIT       :39
+AFTER EDIT        :37
+
+///INDEX 435
+DATE              :2019/11/25 17:17:38
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :5
+BEFORE EDIT       :7057
+AFTER EDIT        :0
+
+///INDEX 436
+DATE              :2019/11/25 17:17:35
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :6
+BEFORE EDIT       :7057
+AFTER EDIT        :0
+
+///INDEX 437
+DATE              :2019/11/25 06:51:54
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :MASTER_PINTURA_ADULTO
+LINE              :0207
+AFTER EDIT        : SETE P007 (1) -150000 
+CURR VALUE
+
+///INDEX 438
+DATE              :2019/11/25 06:51:48
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :MASTER_PINTURA_ADULTO
+LINE              :0202
+AFTER EDIT        : SETE P006 (1) -150000 
+CURR VALUE
+
+///INDEX 439
+DATE              :2019/11/25 06:51:38
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :MASTER_PINTURA_ADULTO
+LINE              :0187
+AFTER EDIT        : SETE P003 (1) 100000 
+CURR VALUE
+
+///INDEX 440
+DATE              :2019/11/25 06:51:30
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :MASTER_PINTURA_ADULTO
+LINE              :0182
+AFTER EDIT        : SETE P002 (1) 100000 
+CURR VALUE
+
+///INDEX 441
+DATE              :2019/11/25 05:57:04
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :0
+BEFORE EDIT       :43
+AFTER EDIT        :39
+
+///INDEX 442
+DATE              :2019/11/25 00:12:30
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :0
+BEFORE EDIT       :40
+AFTER EDIT        :43
+
+///INDEX 443
+DATE              :2019/11/25 00:07:58
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :0
+BEFORE EDIT       :43
+AFTER EDIT        :40
+
+///INDEX 444
+DATE              :2019/11/24 23:51:36
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :0
+BEFORE EDIT       :41
+AFTER EDIT        :43
+
+///INDEX 445
+DATE              :2019/11/24 23:34:44
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :0
+BEFORE EDIT       :43
+AFTER EDIT        :41
+
+///INDEX 446
+DATE              :2019/11/24 23:28:40
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :0
+BEFORE EDIT       :42
+AFTER EDIT        :43
+
+///INDEX 447
+DATE              :2019/11/24 23:28:20
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :0
+BEFORE EDIT       :41
+AFTER EDIT        :42
+
+///INDEX 448
+DATE              :2019/11/24 23:22:20
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :0
+BEFORE EDIT       :38
+AFTER EDIT        :41
+
+///INDEX 449
+DATE              :2019/11/24 23:20:54
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :0
+BEFORE EDIT       :41
+AFTER EDIT        :38
+
+///INDEX 450
+DATE              :2019/11/24 23:16:31
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :0
+BEFORE EDIT       :40
+AFTER EDIT        :41
+
+///INDEX 451
+DATE              :2019/11/24 23:15:36
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :0
+BEFORE EDIT       :41
+AFTER EDIT        :40
+
+///INDEX 452
+DATE              :2019/11/24 22:59:39
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :0
+BEFORE EDIT       :42
+AFTER EDIT        :41
+
+///INDEX 453
+DATE              :2019/11/24 22:50:15
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :0
+BEFORE EDIT       :40
+AFTER EDIT        :42
+
+///INDEX 454
+DATE              :2019/11/24 22:44:03
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :0
+BEFORE EDIT       :41
+AFTER EDIT        :40
+
+///INDEX 455
+DATE              :2019/11/24 21:50:45
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :0
+BEFORE EDIT       :40
+AFTER EDIT        :41
+
+///INDEX 456
+DATE              :2019/11/24 21:47:31
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :0
+BEFORE EDIT       :39
+AFTER EDIT        :40
+
+///INDEX 457
+DATE              :2019/11/24 21:46:35
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :0
+BEFORE EDIT       :43
+AFTER EDIT        :39
+
+///INDEX 458
+DATE              :2019/11/24 21:44:27
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :0
+BEFORE EDIT       :42
+AFTER EDIT        :43
+
+///INDEX 459
+DATE              :2019/11/24 21:42:59
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :0
+BEFORE EDIT       :41
+AFTER EDIT        :42
+
+///INDEX 460
+DATE              :2019/11/24 21:40:16
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :0
+BEFORE EDIT       :39
+AFTER EDIT        :41
+
+///INDEX 461
+DATE              :2019/11/24 21:38:09
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :0
+BEFORE EDIT       :36
+AFTER EDIT        :39
+
+///INDEX 462
+DATE              :2019/11/24 19:25:45
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :5
+BEFORE EDIT       :7780
+AFTER EDIT        :0
+
+///INDEX 463
+DATE              :2019/11/24 19:25:42
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :6
+BEFORE EDIT       :7780
+AFTER EDIT        :0
+
+///INDEX 464
+DATE              :2019/11/23 18:55:01
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :0
+BEFORE EDIT       :35
+AFTER EDIT        :36
+
+///INDEX 465
+DATE              :2019/11/22 21:40:30
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :0
+BEFORE EDIT       :36
+AFTER EDIT        :35
+
+///INDEX 466
+DATE              :2019/11/22 21:32:40
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :5
+BEFORE EDIT       :1985
+AFTER EDIT        :0
+
+///INDEX 467
+DATE              :2019/11/22 21:32:38
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :6
+BEFORE EDIT       :1985
+AFTER EDIT        :0
+
+///INDEX 468
+DATE              :2019/11/22 17:03:06
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :0
+BEFORE EDIT       :35
+AFTER EDIT        :36
+
+///INDEX 469
+DATE              :2019/11/22 15:23:58
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :5
+BEFORE EDIT       :5823
+AFTER EDIT        :0
+
+///INDEX 470
+DATE              :2019/11/22 15:23:54
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :6
+BEFORE EDIT       :5823
+AFTER EDIT        :0
+
+///INDEX 471
+DATE              :2019/11/22 13:21:38
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :0
+BEFORE EDIT       :39
+AFTER EDIT        :35
+
+///INDEX 472
+DATE              :2019/11/22 09:38:17
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :0
+BEFORE EDIT       :33
+AFTER EDIT        :39
+
+///INDEX 473
+DATE              :2019/11/22 07:49:11
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :0
+BEFORE EDIT       :36
+AFTER EDIT        :33
+
+///INDEX 474
+DATE              :2019/11/22 05:26:07
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :0
+BEFORE EDIT       :35
+AFTER EDIT        :36
+
+///INDEX 475
+DATE              :2019/11/21 21:22:10
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :5
+BEFORE EDIT       :4008
+AFTER EDIT        :0
+
+///INDEX 476
+DATE              :2019/11/21 21:22:07
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :6
+BEFORE EDIT       :4008
+AFTER EDIT        :0
+
+///INDEX 477
+DATE              :2019/11/21 12:59:35
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :0
+BEFORE EDIT       :33
+AFTER EDIT        :35
+
+///INDEX 478
+DATE              :2019/11/21 12:55:19
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :5
+BEFORE EDIT       :10956
+AFTER EDIT        :0
+
+///INDEX 479
+DATE              :2019/11/21 12:55:16
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :6
+BEFORE EDIT       :10956
+AFTER EDIT        :0
+
+///INDEX 480
+DATE              :2019/11/21 12:47:48
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :0
+BEFORE EDIT       :38
+AFTER EDIT        :33
+
+///INDEX 481
+DATE              :2019/11/21 11:32:04
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :7
+AFTER EDIT        :ON
+
+///INDEX 482
+DATE              :2019/11/21 11:32:02
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :OFF
+
+///INDEX 483
+DATE              :2019/11/21 11:31:59
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :ON
+
+///INDEX 484
+DATE              :2019/11/21 11:31:58
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :OFF
+
+///INDEX 485
+DATE              :2019/11/21 11:31:58
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :ON
+
+///INDEX 486
+DATE              :2019/11/21 11:31:57
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :OFF
+
+///INDEX 487
+DATE              :2019/11/21 11:31:57
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :ON
+
+///INDEX 488
+DATE              :2019/11/21 11:31:56
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :OFF
+
+///INDEX 489
+DATE              :2019/11/21 11:31:53
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :ON
+
+///INDEX 490
+DATE              :2019/11/21 11:31:52
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :OFF
+
+///INDEX 491
+DATE              :2019/11/21 11:31:52
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :ON
+
+///INDEX 492
+DATE              :2019/11/21 11:31:51
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :OFF
+
+///INDEX 493
+DATE              :2019/11/21 11:31:49
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :ON
+
+///INDEX 494
+DATE              :2019/11/21 11:31:47
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :OFF
+
+///INDEX 495
+DATE              :2019/11/21 11:31:47
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :ON
+
+///INDEX 496
+DATE              :2019/11/21 11:31:46
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :OFF
+
+///INDEX 497
+DATE              :2019/11/21 11:31:45
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :ON
+
+///INDEX 498
+DATE              :2019/11/21 11:31:45
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :OFF
+
+///INDEX 499
+DATE              :2019/11/21 11:31:44
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :ON
+
+///INDEX 500
+DATE              :2019/11/21 11:31:42
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :OFF
+
+///INDEX 501
+DATE              :2019/11/21 11:31:05
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :ON
+
+///INDEX 502
+DATE              :2019/11/21 11:31:02
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :7
+AFTER EDIT        :OFF
+
+///INDEX 503
+DATE              :2019/11/21 11:31:00
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :7
+AFTER EDIT        :ON
+
+///INDEX 504
+DATE              :2019/11/21 11:30:56
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :OFF
+
+///INDEX 505
+DATE              :2019/11/21 11:30:55
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :ON
+
+///INDEX 506
+DATE              :2019/11/21 11:30:54
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :OFF
+
+///INDEX 507
+DATE              :2019/11/21 11:30:53
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :ON
+
+///INDEX 508
+DATE              :2019/11/21 11:30:51
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :7
+AFTER EDIT        :OFF
+
+///INDEX 509
+DATE              :2019/11/21 11:30:50
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :7
+AFTER EDIT        :ON
+
+///INDEX 510
+DATE              :2019/11/21 11:30:49
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :7
+AFTER EDIT        :OFF
+
+///INDEX 511
+DATE              :2019/11/21 11:30:48
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :7
+AFTER EDIT        :ON
+
+///INDEX 512
+DATE              :2019/11/21 11:30:48
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :7
+AFTER EDIT        :OFF
+
+///INDEX 513
+DATE              :2019/11/21 11:30:47
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :7
+AFTER EDIT        :ON
+
+///INDEX 514
+DATE              :2019/11/21 11:30:47
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :7
+AFTER EDIT        :OFF
+
+///INDEX 515
+DATE              :2019/11/21 11:30:46
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :7
+AFTER EDIT        :ON
+
+///INDEX 516
+DATE              :2019/11/21 11:30:46
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :7
+AFTER EDIT        :OFF
+
+///INDEX 517
+DATE              :2019/11/21 11:30:46
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :7
+AFTER EDIT        :ON
+
+///INDEX 518
+DATE              :2019/11/21 11:30:42
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :OFF
+
+///INDEX 519
+DATE              :2019/11/21 11:30:42
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :ON
+
+///INDEX 520
+DATE              :2019/11/21 11:30:41
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :OFF
+
+///INDEX 521
+DATE              :2019/11/21 11:30:41
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :ON
+
+///INDEX 522
+DATE              :2019/11/21 11:30:41
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :OFF
+
+///INDEX 523
+DATE              :2019/11/21 11:30:41
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :ON
+
+///INDEX 524
+DATE              :2019/11/21 11:30:40
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :OFF
+
+///INDEX 525
+DATE              :2019/11/21 11:30:40
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :ON
+
+///INDEX 526
+DATE              :2019/11/21 11:30:40
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :OFF
+
+///INDEX 527
+DATE              :2019/11/21 11:30:40
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :ON
+
+///INDEX 528
+DATE              :2019/11/21 11:30:39
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :OFF
+
+///INDEX 529
+DATE              :2019/11/21 11:30:39
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :ON
+
+///INDEX 530
+DATE              :2019/11/21 11:30:39
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :OFF
+
+///INDEX 531
+DATE              :2019/11/21 11:30:38
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :ON
+
+///INDEX 532
+DATE              :2019/11/21 11:30:38
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :OFF
+
+///INDEX 533
+DATE              :2019/11/21 11:30:38
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :ON
+
+///INDEX 534
+DATE              :2019/11/21 11:30:38
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :OFF
+
+///INDEX 535
+DATE              :2019/11/21 11:30:37
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :ON
+
+///INDEX 536
+DATE              :2019/11/21 11:30:37
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :OFF
+
+///INDEX 537
+DATE              :2019/11/21 11:30:37
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :ON
+
+///INDEX 538
+DATE              :2019/11/21 11:30:37
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :OFF
+
+///INDEX 539
+DATE              :2019/11/21 11:30:36
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :ON
+
+///INDEX 540
+DATE              :2019/11/21 11:30:36
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :OFF
+
+///INDEX 541
+DATE              :2019/11/21 11:30:36
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :ON
+
+///INDEX 542
+DATE              :2019/11/21 11:30:36
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :OFF
+
+///INDEX 543
+DATE              :2019/11/21 11:30:35
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :ON
+
+///INDEX 544
+DATE              :2019/11/21 11:30:35
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :OFF
+
+///INDEX 545
+DATE              :2019/11/21 11:30:35
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :ON
+
+///INDEX 546
+DATE              :2019/11/21 11:30:35
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :OFF
+
+///INDEX 547
+DATE              :2019/11/21 11:30:35
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :ON
+
+///INDEX 548
+DATE              :2019/11/21 11:30:34
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :OFF
+
+///INDEX 549
+DATE              :2019/11/21 11:30:34
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :ON
+
+///INDEX 550
+DATE              :2019/11/21 11:30:34
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :OFF
+
+///INDEX 551
+DATE              :2019/11/21 11:30:34
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :ON
+
+///INDEX 552
+DATE              :2019/11/21 11:29:49
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :OFF
+
+///INDEX 553
+DATE              :2019/11/21 11:29:48
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :ON
+
+///INDEX 554
+DATE              :2019/11/21 11:29:48
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :OFF
+
+///INDEX 555
+DATE              :2019/11/21 11:29:48
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :ON
+
+///INDEX 556
+DATE              :2019/11/21 11:29:47
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :OFF
+
+///INDEX 557
+DATE              :2019/11/21 11:29:47
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :ON
+
+///INDEX 558
+DATE              :2019/11/21 11:29:47
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :OFF
+
+///INDEX 559
+DATE              :2019/11/21 11:29:46
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :ON
+
+///INDEX 560
+DATE              :2019/11/21 11:29:46
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :OFF
+
+///INDEX 561
+DATE              :2019/11/21 11:29:46
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :ON
+
+///INDEX 562
+DATE              :2019/11/21 11:29:45
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :OFF
+
+///INDEX 563
+DATE              :2019/11/21 11:29:45
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :6
+AFTER EDIT        :ON
+
+///INDEX 564
+DATE              :2019/11/21 11:29:42
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :7
+AFTER EDIT        :OFF
+
+///INDEX 565
+DATE              :2019/11/21 11:29:40
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :7
+AFTER EDIT        :ON
+
+///INDEX 566
+DATE              :2019/11/21 11:29:40
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :7
+AFTER EDIT        :OFF
+
+///INDEX 567
+DATE              :2019/11/21 11:29:40
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :7
+AFTER EDIT        :ON
+
+///INDEX 568
+DATE              :2019/11/21 11:29:39
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :7
+AFTER EDIT        :OFF
+
+///INDEX 569
+DATE              :2019/11/21 11:29:39
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :7
+AFTER EDIT        :ON
+
+///INDEX 570
+DATE              :2019/11/21 11:29:38
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :7
+AFTER EDIT        :OFF
+
+///INDEX 571
+DATE              :2019/11/21 11:29:38
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :7
+AFTER EDIT        :ON
+
+///INDEX 572
+DATE              :2019/11/21 11:29:37
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :7
+AFTER EDIT        :OFF
+
+///INDEX 573
+DATE              :2019/11/21 11:29:37
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :7
+AFTER EDIT        :ON
+
+///INDEX 574
+DATE              :2019/11/21 11:29:37
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :7
+AFTER EDIT        :OFF
+
+///INDEX 575
+DATE              :2019/11/21 11:29:36
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :7
+AFTER EDIT        :ON
+
+///INDEX 576
+DATE              :2019/11/21 11:29:36
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :7
+AFTER EDIT        :OFF
+
+///INDEX 577
+DATE              :2019/11/21 11:29:35
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :7
+AFTER EDIT        :ON
+
+///INDEX 578
+DATE              :2019/11/21 11:29:35
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :7
+AFTER EDIT        :OFF
+
+///INDEX 579
+DATE              :2019/11/21 11:29:34
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :7
+AFTER EDIT        :ON
+
+///INDEX 580
+DATE              :2019/11/21 11:29:34
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :7
+AFTER EDIT        :OFF
+
+///INDEX 581
+DATE              :2019/11/21 11:29:34
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :7
+AFTER EDIT        :ON
+
+///INDEX 582
+DATE              :2019/11/21 11:29:34
+EVENT             :I/O EDIT
+LOGIN NAME        :
+I/O NUMBER        :7
+AFTER EDIT        :OFF
+
+///INDEX 583
+DATE              :2019/11/21 07:26:10
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :MASTER_PINTURA_ADULTO
+LINE              :0144
+AFTER EDIT        : SETE P003 (1) 90000 
+CURR VALUE
+
+///INDEX 584
+DATE              :2019/11/21 07:26:05
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :MASTER_PINTURA_ADULTO
+LINE              :0139
+AFTER EDIT        : SETE P002 (1) 90000 
+CURR VALUE
+
+///INDEX 585
+DATE              :2019/11/21 07:23:59
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :MASTER_PINTURA_ADULTO
+LINE              :0144
+AFTER EDIT        : SETE P003 (1) 100000 
+CURR VALUE
+
+///INDEX 586
+DATE              :2019/11/21 07:23:52
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :MASTER_PINTURA_ADULTO
+LINE              :0139
+AFTER EDIT        : SETE P002 (1) 100000 
+CURR VALUE
+
+///INDEX 587
+DATE              :2019/11/21 07:21:41
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :0
+BEFORE EDIT       :39
+AFTER EDIT        :38
+
+///INDEX 588
+DATE              :2019/11/21 06:07:04
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :0
+BEFORE EDIT       :37
+AFTER EDIT        :39
+
+///INDEX 589
+DATE              :2019/11/21 05:56:35
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :MASTER_PINTURA_ADULTO
+LINE              :0164
+AFTER EDIT        : SETE P007 (1) -130000 
+CURR VALUE
+
+///INDEX 590
+DATE              :2019/11/21 05:56:27
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :MASTER_PINTURA_ADULTO
+LINE              :0159
+AFTER EDIT        : SETE P006 (1) -130000 
+CURR VALUE
+
+///INDEX 591
+DATE              :2019/11/21 05:54:17
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :0
+BEFORE EDIT       :38
+AFTER EDIT        :37
+
+///INDEX 592
+DATE              :2019/11/21 05:53:37
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :0
+BEFORE EDIT       :39
+AFTER EDIT        :38
+
+///INDEX 593
+DATE              :2019/11/20 20:04:21
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :0
+BEFORE EDIT       :38
+AFTER EDIT        :39
+
+///INDEX 594
+DATE              :2019/11/20 19:36:01
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :0
+BEFORE EDIT       :37
+AFTER EDIT        :38
+
+///INDEX 595
+DATE              :2019/11/20 10:08:46
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :0
+BEFORE EDIT       :35
+AFTER EDIT        :37
+
+///INDEX 596
+DATE              :2019/11/20 08:36:05
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :I VAR             
+VARIABLE NUMBER   :0
+BEFORE EDIT       :39
+AFTER EDIT        :35
+
+///INDEX 597
+DATE              :2019/11/20 08:13:46
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :MASTER_PINTURA_ADULTO
+LINE              :0207
+AFTER EDIT        : SETE P007 (1) -140000 
+CURR VALUE
+
+///INDEX 598
+DATE              :2019/11/20 08:13:38
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :MASTER_PINTURA_ADULTO
+LINE              :0202
+AFTER EDIT        : SETE P006 (1) -140000 
+CURR VALUE
+
+///INDEX 599
+DATE              :2019/11/20 08:13:22
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :MASTER_PINTURA_ADULTO
+LINE              :0187
+AFTER EDIT        : SETE P003 (1) 90000 
+CURR VALUE
+
+///INDEX 600
+DATE              :2019/11/20 08:13:16
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :MASTER_PINTURA_ADULTO
+LINE              :0182
+AFTER EDIT        : SETE P002 (1) 90000 
+CURR VALUE
+
+
