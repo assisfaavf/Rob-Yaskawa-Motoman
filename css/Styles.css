@@ -10,10 +10,25 @@ body {
   font-family: "Open Sans", sans-serif;
   background: linear-gradient(180deg, rgba(227, 255, 248, 0) 80%, #648cbc 100%);
 }
+h1 {
+  margin: 20px 20px;
+}
+h2 {
+  margin: 10px 10px;
+}
 p {
   text-indent: 4em;
   text-align: justify;
   margin: 20px auto 20px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  font-weight: bold;
+  opacity: 1;
 }
 .page {
   width: 1000px;
@@ -40,20 +55,15 @@ nav {
   margin-bottom: 20px;
 }
 
-ul {
+nav ul {
   list-style: none;
   display: flex;
   align-items: center;
   gap: 24px;
   font-family: "Mulish", sans-serif;
 }
-/* Adiciona a estilização para quando passar o mouse */
-ul li a:hover {
-  font-weight: bold;
-  opacity: 1;
-}
-ul li a {
-  text-decoration: none;
+
+nav ul li a {
   color: #1f1534;
   opacity: 0.5;
 }
@@ -219,7 +229,16 @@ button img {
 }
 
 /* Historico */
+#Registros h1 {
+  text-align: center;
+}
 
+ul li ul {
+  list-style-type: square;
+  margin-left: 20px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
 /* Informações */
 
 #Riscos img {
