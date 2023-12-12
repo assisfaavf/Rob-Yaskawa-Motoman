@@ -48,7 +48,7 @@ a:hover {
 }
 .head img {
   width: 200px;
-  margin: auto auto 20px;
+  margin: auto auto 10px;
   display: flex;
   align-items: center;
 }
@@ -242,6 +242,16 @@ button img {
 #Registros h1 {
   text-align: center;
 }
+
+#Atualizacoes h1 {
+  text-align: center;
+}
+
+#Atualizacoes h3 {
+  text-align: center;
+  margin-bottom: 0px;
+}
+
 ul li ul {
   list-style-type: square;
   margin-left: 20px;

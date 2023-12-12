@@ -233,6 +233,15 @@ button img {
   text-align: center;
 }
 
+#Atualizacoes h1 {
+  text-align: center;
+}
+
+#Atualizacoes h3 {
+  text-align: center;
+  margin-bottom: 0px;
+}
+
 ul li ul {
   list-style-type: square;
   margin-left: 20px;
