@@ -114,11 +114,12 @@ main img {
 footer {
   text-align: center;
 
-  font-size: 14px;
+  font-size: 18px;
   line-height: 28px;
   color: #7d7987;
 
   margin-top: 80px;
+  margin-bottom: 20px;
 }
 
 footer a {
