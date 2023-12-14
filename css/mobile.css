@@ -41,7 +41,6 @@ h2 {
 p {
   text-indent: 4em;
   text-align: justify;
-  width: 350px;
   margin: 20px auto 20px;
 }
 
@@ -113,7 +112,7 @@ nav ul li a {
   line-height: 28px;
   color: #7d7987;
   margin: 40px 10px;
-  width: 415px;
+  width: 390px;
 }
 
 main {
