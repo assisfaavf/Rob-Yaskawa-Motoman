@@ -293,6 +293,13 @@ ul li ul {
 
 /* Manuais */
 
+#Ferramentas img {
+  display: flex;
+  align-items: center;
+  margin: auto;
+  width: 400px;
+}
+
 /* Materiais */
 table {
   width: 400px;
