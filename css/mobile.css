@@ -26,15 +26,21 @@ body::before {
 }
 
 h1 {
+  font-family: "Mulish", sans-serif;
+
   margin: 20px 20px;
-  font-family: "mulish", sans-serif;
-  font-size: 49px;
+
+  font-size: 35px;
+  line-height: 40px;
   font-weight: bold;
 }
 h2 {
+  font-family: "Mulish", sans-serif;
+
   margin: 10px 10px;
-  font-family: "mulish", sans-serif;
-  font-size: 39px;
+
+  font-size: 25px;
+  line-height: 30px;
   font-weight: 600;
 }
 
@@ -93,7 +99,6 @@ nav ul li a {
   opacity: 0.5;
 }
 .text h1 {
-  font-family: "Mulish", sans-serif;
   font-weight: normal;
   font-size: 49px;
   line-height: 56px;

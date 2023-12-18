@@ -23,10 +23,22 @@ body::before {
   background: linear-gradient(0deg, rgba(227, 255, 248, 0) 80%, #648cbc 100%);
 }
 h1 {
+  font-family: "Mulish", sans-serif;
+
   margin: 20px 20px;
+
+  font-size: 35px;
+  line-height: 40px;
+  font-weight: bold;
 }
 h2 {
+  font-family: "Mulish", sans-serif;
+
   margin: 10px 10px;
+
+  font-size: 25px;
+  line-height: 30px;
+  font-weight: 600;
 }
 p {
   text-indent: 4em;
@@ -82,10 +94,9 @@ nav ul li a {
   opacity: 0.5;
 }
 .text h1 {
-  font-family: "Mulish", sans-serif;
-  font-weight: normal;
   font-size: 49px;
   line-height: 56px;
+  font-weight: normal;
   color: #1f1534;
   width: 490px;
 }
@@ -96,7 +107,6 @@ nav ul li a {
 
 .text p {
   font-size: 14px;
-  font-weight: normal;
   line-height: 28px;
   color: #7d7987;
   margin: 40px 10px;
