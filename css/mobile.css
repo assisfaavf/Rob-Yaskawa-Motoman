@@ -198,6 +198,14 @@ button img {
   height: auto;
 }
 
+#Visão img {
+  display: flex;
+  align-items: center;
+  margin: 40px auto 40px;
+  width: 400px;
+  height: auto;
+}
+
 /* Componentes */
 #Pistola img {
   display: flex;
