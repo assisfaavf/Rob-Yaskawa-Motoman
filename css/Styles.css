@@ -221,7 +221,7 @@ button img {
 #Reguladores img {
   justify-content: space-between;
   margin: 40px auto 40px;
-  width: 250px;
+  width: 300px;
   height: auto;
 }
 #Tinta #bomba {
@@ -248,6 +248,24 @@ button img {
   height: auto;
 }
 
+.exaustores {
+  display: flex;
+  align-items: center;
+}
+.exaustores img {
+  justify-content: space-between;
+  margin: 40px auto 40px;
+  width: 300px;
+  height: auto;
+}
+
+#Proteção img {
+  display: flex;
+  align-items: center;
+  margin: 40px auto 40px;
+  width: 400px;
+  height: auto;
+}
 /* Esquemas */
 
 .Esquemas {
