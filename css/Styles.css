@@ -316,9 +316,20 @@ ul li ul {
   display: flex;
   align-items: center;
   margin: auto;
-  width: 400px;
+  width: 200px;
 }
 
+#img_ferramentas {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 700px;
+  margin-left: 200px;
+}
+#img_ferramentas img {
+  width: 300px;
+}
 /* Materiais */
 table {
   width: 800px;
